@@ -33,7 +33,8 @@
     ![alt text](First_program/assets/Task2_output.png)
 
     1. Отримано наступні результати:
-    ![alt text](First_program/assets/Task2_output2.png)
+
+        ![alt text](First_program/assets/Task2_output2.png)
     
 
 
@@ -48,6 +49,7 @@
         ![alt text](First_program/assets/Task3_output2.png)
 
     1. Отримано наступні результати:
+       
         ![alt text](First_program/assets/Task3_output3.png)
     
 
@@ -65,6 +67,7 @@
     
       
     1. Отримано наступні результати:
+        
         ![alt text](First_program/assets/Task4.png)
       
     
