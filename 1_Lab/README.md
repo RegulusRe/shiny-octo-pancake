@@ -19,6 +19,7 @@
         ![alt text](First_program/assets/Task_output.png)
 
     1. Отримано наступні результати:
+    
         ![alt text](First_program/assets/Task_result.png)
         
 
