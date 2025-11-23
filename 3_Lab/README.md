@@ -71,6 +71,7 @@ print(f"We are done. We create {me.total_names} names! ??? Why {MyName.total_nam
 
 
 2. Програма вивела значення ...
+   
 ![alt text](assets/Task1_out.png)
 
 * Результати виконання завдання №2;
@@ -146,6 +147,7 @@ print(f"We are done. We create {me.total_names} names! ??? Why {MyName.total_nam
 ```
 
 2. Програма вивела значення ...
+   
 ![alt text](assets/Task2_out.png)
 
 
@@ -260,6 +262,7 @@ This is class variable {type(MyName.total_names)}: from class {MyName.total_name
 print(f"We are done. We create {me.total_names} names! ??? Why {MyName.total_names}?")
 ```
 2. Програма вивела значення ...
+   
     ![alt text](assets/Individual_task.png)
 
 ---
