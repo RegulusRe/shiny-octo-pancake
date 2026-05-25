@@ -7,7 +7,8 @@
 * Результати виконання завдання №1;
     1. Добавив
 
-    ```for _ in range(5):
+    ```python
+    for _ in range(5):
     deposit_amount = random.randint(50, 200)
     withdraw_amount = random.randint(20, 100)
     
@@ -22,7 +23,7 @@
 * Результати виконання завдання №2;
     1. Добавив
 
-    ``` 
+    ``` python
         def start_engine(self):
         return "Двигун запущено! Врум-врум!"
 
@@ -30,14 +31,14 @@
     ```
     1. Програма вивела значення ...
 
-    ```
+    ```python
     Toyota Camry, Seats: 5
     Двигун запущено! Врум-врум!
     ```
 * Результати виконання завдання №3;
     1. Добавив
 
-    ```
+    ```python
     class Fish(Animal):
     pass
 
@@ -45,7 +46,7 @@
     ```
     1. Програма вивела значення ...
 
-    ```
+    ```python
     Dog каже: Woof!
     Cat каже: Meow!
     Fish каже: None
@@ -53,7 +54,7 @@
 * Результати виконання завдання №4;
     1. Добавив
 
-    ```
+    ```python
     class Bow(Item):
     def __init__(self, name, attack_power:int, range_power:int = 0):
         super().__init__(name=name)

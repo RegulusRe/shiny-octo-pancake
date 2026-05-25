@@ -1,0 +1,30 @@
+[project]
+name = "myproject"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "RegulusRE",email = "rostik.hasuk@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "requests (>=2.34.2,<3.0.0)",
+    "flask (>=3.1.3,<4.0.0)",
+    "jikanpy-v4 (>=1.0.2,<2.0.0)"
+]
+
+[tool.poetry]
+packages = [{include = "myproject", from = "src"}]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[dependency-groups]
+dev = [
+    "pytest (>=9.0.3,<10.0.0)",
+    "flake8 (>=7.3.0,<8.0.0)"
+]
+docs = [
+    "mkdocs (>=1.6.1,<2.0.0)"
+]
